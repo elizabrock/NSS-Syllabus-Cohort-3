@@ -60,7 +60,7 @@ In order to attain the goals above, quite a few skills are required.
 
 ## Schedule
 
-The class will consist of 4 units over 12 weeks. We will have a mind-boggling two weeks of for Christmas/New Year.
+The class will consist of 4 units over 12 weeks. We will have a mind-boggling two weeks off for Christmas/New Years.
 
 Instructional time from 9AM to 12PM, daily.
 
