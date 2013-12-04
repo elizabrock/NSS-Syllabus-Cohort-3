@@ -1,0 +1,58 @@
+Last login: Wed Dec  4 07:42:51 on ttys003
+You have new mail.
+elizabrock@Elizas-MacBook-Pro-2:~$ cd Projects/NSS-Syllabus-Cohort-3/
+elizabrock@Elizas-MacBook-Pro-2:~/Projects/NSS-Syllabus-Cohort-3(master+)$ mvim .
+elizabrock@Elizas-MacBook-Pro-2:~/Projects/NSS-Syllabus-Cohort-3(master+)$ ruby cheers.rb 
+Foo
+elizabrock@Elizas-MacBook-Pro-2:~/Projects/NSS-Syllabus-Cohort-3(master+)$ irb
+2.0.0p353 :001 > puts "Foo"
+Foo
+ => nil 
+2.0.0p353 :002 > 1 + 1
+ => 2 
+2.0.0p353 :003 > mydate = "08/25/2006"
+ => "08/25/2006" 
+2.0.0p353 :004 > actuallyadate = Date.parse(mydate)
+NoMethodError: undefined method `parse' for Date:Class
+	from (irb):4
+	from /Users/elizabrock/.rvm/rubies/ruby-2.0.0-p353/bin/irb:12:in `<main>'
+2.0.0p353 :005 > actuallyadate = DateTime.parse(mydate)
+NameError: uninitialized constant DateTime
+	from (irb):5
+	from /Users/elizabrock/.rvm/rubies/ruby-2.0.0-p353/bin/irb:12:in `<main>'
+2.0.0p353 :006 > actuallyadate = Date.parse(mydate)
+NoMethodError: undefined method `parse' for Date:Class
+	from (irb):6
+	from /Users/elizabrock/.rvm/rubies/ruby-2.0.0-p353/bin/irb:12:in `<main>'
+2.0.0p353 :007 > require 'date'
+ => true 
+2.0.0p353 :008 > Date.parse("08/25/2006")
+ArgumentError: invalid date
+	from (irb):8:in `parse'
+	from (irb):8
+	from /Users/elizabrock/.rvm/rubies/ruby-2.0.0-p353/bin/irb:12:in `<main>'
+2.0.0p353 :009 > Date.parse("2006/08/25")
+ => #<Date: 2006-08-25 ((2453973j,0s,0n),+0s,2299161j)> 
+2.0.0p353 :010 > actuallyadate = Date.parse("08/25/2006")
+ArgumentError: invalid date
+	from (irb):10:in `parse'
+	from (irb):10
+	from /Users/elizabrock/.rvm/rubies/ruby-2.0.0-p353/bin/irb:12:in `<main>'
+2.0.0p353 :011 > mydate
+ => "08/25/2006" 
+2.0.0p353 :012 > mydate.split("/")
+ => ["08", "25", "2006"] 
+2.0.0p353 :013 > mydate.split("/").reverse
+ => ["2006", "25", "08"] 
+2.0.0p353 :014 > datearray = mydate.split("/")
+ => ["08", "25", "2006"] 
+2.0.0p353 :015 > Date.parse( datearray[2]+"/"+datearray[0]+"/"+datearray[1] )
+ => #<Date: 2006-08-25 ((2453973j,0s,0n),+0s,2299161j)> 
+2.0.0p353 :016 > actuallyadate = _
+ => #<Date: 2006-08-25 ((2453973j,0s,0n),+0s,2299161j)> 
+2.0.0p353 :017 > actuallyadate.month
+ => 8 
+2.0.0p353 :018 > actuallyadate.year
+ => 2006 
+2.0.0p353 :019 > exit
+elizabrock@Elizas-MacBook-Pro-2:~/Projects/NSS-Syllabus-Cohort-3(master+)$ 
