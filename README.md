@@ -136,7 +136,7 @@ Some of these topics, especially those in basic Computer Science and Software En
 
 Basic:
 
- * Mathmatical (boolean) logic
+ * Mathematical (boolean) logic
  * Set theory
  * Algorithms (searching, sorting, etc.)
  * Data structures (stacks, queues, hashes, arrays, graphs, objects)
@@ -148,7 +148,7 @@ Basic:
 
 Advanced:
 
- * Articificial Intelligence
+ * Artificial Intelligence
  * Computer Vision
  * Robotics
  * Machine Learning
