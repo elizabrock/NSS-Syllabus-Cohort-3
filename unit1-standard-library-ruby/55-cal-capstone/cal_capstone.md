@@ -77,6 +77,7 @@ Requirements
   * You should not use "magic" numbers.
   * You must commit your code at least once per day and push it to your github repository.
   * As a capstone project, this should demonstrate *your* skills. Do not share code with your peers. You can help each other _think_ about the problems, but don't help each other code.
+  * Your program should accept any combination of months and years between 1800 and 3000.
 
 Suggested Implementation Order
 ==============================
