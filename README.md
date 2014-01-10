@@ -92,7 +92,7 @@ After a lunch break, students work on individual assignments and research.
   * Week 3: Mathematics refresher; Intro to Software Requirements & Specification; Starting Cal (Dec 15-21)
   * Capstone: Cal (due January 3rd)
 
-### 2. Exploring the Ruby Ecosystem
+### 2. Exploring SQL and the Ruby Ecosystem
 
 **Goal**: Demonstrate mastery of basic git, project documentation (README, comments), writing unit tests, SQL and basic Ruby
 
