@@ -1,27 +1,27 @@
-Pete Dunlap - Cost of Living Comparison
-Brian Threlkeld - Beer Tracker
-Lori - 
-Leah - Import/Export Trends
-Matthew - TODO App
-Ben Blackburn - Concert Tracker
-Brian Arenz - Repair Tracker
-Jay - Activity Recommendations
-Mike - Board Game Tracker / Suggestor
-Gabrielle - Language Learning
-Rachel - Music Publishing Manager
-Amanda - Shelter Dog Tracker
-Drew - MetaCritic Lite
-Scott - Mileage Tracker
-Jerry - Pantry Tickler
-Ashley - Thoughtbot Learn clonish
-Benjamen Brescka - Volunteer Opportunities
-JL - Game Price App
-Arielle - Client Followup Tracker
-Katie - Personal Film Viewing Tracker
-Tobin - System Performance Tracker
-Lars - Media to-consume
-Warren - UFO Sightings
-Peter - :(
+* Pete Dunlap - Cost of Living Comparison
+* Brian Threlkeld - Beer Tracker
+* Lori - 
+* Leah - Import/Export Trends
+* Matthew - TODO App
+* Ben Blackburn - Concert Tracker
+* Brian Arenz - Repair Tracker
+* Jay - Activity Recommendations
+* Mike - Board Game Tracker / Suggestor
+* Gabrielle - Language Learning
+* Rachel - Music Publishing Manager
+* Amanda - Shelter Dog Tracker
+* Drew - MetaCritic Lite
+* Scott - Mileage Tracker
+* Jerry - Pantry Tickler
+* Ashley - Thoughtbot Learn clonish
+* Benjamen Brescka - Volunteer Opportunities
+* JL - Game Price App
+* Arielle - Client Followup Tracker
+* Katie - Personal Film Viewing Tracker
+* Tobin - System Performance Tracker
+* Lars - Media to-consume
+* Warren - UFO Sightings
+* Peter - :(
 
 
 ##TODO:
