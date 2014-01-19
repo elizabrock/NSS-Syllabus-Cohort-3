@@ -21,7 +21,7 @@
 * Tobin - System Performance Tracker
 * Lars - Media to-consume
 * Warren - UFO Sightings
-* Peter - :(
+* Peter - Recipe Tracker
 
 
 ##TODO:
