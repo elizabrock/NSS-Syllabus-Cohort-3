@@ -42,7 +42,7 @@ In order to attain the goals above, quite a few skills are required.
       * Have an awareness of the depth and breadth of the field
   * To Understand the Depth and Breadth of the Field, you must:
       * Expose yourself to the viewpoints of developers that are very experienced in your area of focus
-      * Expose yourself to the viewpoints of developers are in areas outside of your area of focus
+      * Expose yourself to the viewpoints of developers that are in areas outside of your area of focus
       * Have a working knowledge of the history of the field
 
 ## Instructors
@@ -130,7 +130,7 @@ Guest lecture topics are determined in large part by student interest and mentor
 
 ## Topics
 
-Some of these topics, especially those in basic Computer Science and Software Engineering, will be covered in-depth.  The rest of the topics will be covered in-breadth, with the goal if enabling students to learn more on their own.
+Some of these topics, especially those in basic Computer Science and Software Engineering, will be covered in-depth.  The rest of the topics will be covered in-breadth, with the goal of enabling students to learn more on their own.
 
 ### Computer Science
 
