@@ -52,7 +52,7 @@ So far, we've been making ad-hoc queries inside of `grocerytracker`.  In the pri
 Read about the SOLID principles, and in particular the Single Responsibility Principle:
 
   * http://www.hanselminutes.com/145/solid-principles-with-uncle-bob-robert-c-martin
-  * http://en.wikipedia.org/wiki/Single\_responsibility\_principle
+  * http://en.wikipedia.org/wiki/Single_responsibility_principle
 
 
 Then think about how you can refactor your existing work to use classes.  In rails, "model" classes (generally, database-backed) are kept all in one place (a.k.a. the models directory) and each model class is responsible for knowing everything about that domain concept.  This includes: how to validate the data, how to format information for display (to an extent) and how it relates to other models.
