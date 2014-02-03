@@ -29,7 +29,7 @@ This is the presentation order.  There will not be substitutions.
 
 Last minute q+a about presentations; making sure we have the projector setup; etc.
 
-## 9:15 - 9:45
+## 9:15 - 9:55
 
 1. Benjamen Brescka - Volunteer Opportunities
 2. Gabrielle - Language Learning
@@ -40,7 +40,8 @@ Last minute q+a about presentations; making sure we have the projector setup; et
 7. Rachel - Music Publishing Manager
 8. Brian Threlkeld - Beer Tracker
 
-## 10 - 10:45
+
+## 10:05 - 10:45
 
 1. Ben Blackburn - Concert Tracker
 2. Jerry - Pantry Tickler
@@ -50,7 +51,7 @@ Last minute q+a about presentations; making sure we have the projector setup; et
 6. Lori - 
 7. Amanda - Shelter Dog Tracker
 
-# 11 - 11:45
+## 11 - 11:45
 1. Mike - Board Game Tracker / Suggestor
 2. Arielle - Client Followup Tracker
 3. Peter H. - Recipe Tracker
@@ -59,3 +60,8 @@ Last minute q+a about presentations; making sure we have the projector setup; et
 6. Brian Arenz - Repair Tracker
 7. Ashley - Thoughtbot Learn clonish
 8. Pete Dunlap - Cost of Living Comparison
+
+## 11:45 - 12
+
+Wrap up
+
