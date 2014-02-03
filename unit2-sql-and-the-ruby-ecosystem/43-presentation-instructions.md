@@ -13,7 +13,8 @@ Each presentation should take approximately 5 minutes and cover the following ma
 
 ## Important points to remember:
 
-* You do not need a slide deck unless you particularly want one.
+* You do not need a slide deck unless you want one.  It can be helpful, but is definitely optional.
+* If you have a slide deck through an online service, ensure that you have a local copy of it just in case the internet is spoty tomorrow.
 * Speak loudly and clearly, facing your audience.
 * DO NOT emphasize broken parts of the program.  If you notice a bug while you're presenting, just gloss past it. This is an important skill to learn for giving product demos.
 * DO NOT insult your own work.  People tend to take a person's self-evaluation at face value and you'll simply be setting people up to think your work is sub-par.
