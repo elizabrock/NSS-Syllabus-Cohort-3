@@ -1,0 +1,1 @@
+For the past week or so, we've been working through various concepts of SQL, testing, and program structure through our work on the capstone 2 example application: https://github.com/elizabrock/nss-capstone-2-example
