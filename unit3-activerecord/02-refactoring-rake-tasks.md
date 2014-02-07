@@ -18,3 +18,6 @@ Order of operations:
 7. Make sure you updated the test section of your Rakefile so that it will run `rake db:test:prepare`
 8. Run `rake`. It should pass. If it does not, figure out why!
 9. Commit this refactor before moving on to the next steps.
+
+
+Reminder: `rake -T` will show you the list of all available rake tasks
