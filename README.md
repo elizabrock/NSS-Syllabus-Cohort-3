@@ -100,9 +100,11 @@ After a lunch break, students work on individual assignments and research.
 
 (This will deviate from the previous course, with students using pure SQL, as a precursor to ActiveRecord.  The projects will be pure standard-library Ruby)
 
-  * Week 4: Introduction to SQL; Survey of databases; Small SQL project (Jan 5-11)
-  * Week 5: Intro to storing data with Ruby (e.g. File, CSV, ActiveRecord); Planning capstone projects; (Jan 12-18)
-  * Week 6: Advanced ActiveRecord; Work on capstone projects (Jan 19-25)
+  * Week 4: Discuss and refactor Cal; Set theory; (Jan 5-11)
+  * Week 5: Introduction to SQL; Northwinds database; ERDs; Small SQL statement project; Choosing capstone projects (Jan 12-18))
+  * Week 6: User stories; Integration testing; Begin SQL capstone projects (Jan 19-25)
+  * Week 7: Work on capstone projects; Error checking; Intro to storing and importing data with Ruby (e.g. File, CSV, etc.); Live-coding in-class SQL project (Jan 26 - Feb 1)
+  * Week 8: Project presentations; ActiveRecord; Refactoring projects into ActiveRecord (Feb 2-8)
 
 ### 3. Developing a simple Rails application
 
@@ -110,9 +112,8 @@ After a lunch break, students work on individual assignments and research.
 
 **Capstone**: This section has not previously had a capstone.  However, students will work together in groups to develop their knowledge of Rails.
 
-  * Week 7: Discuss MVC and REST; Overview of how Rails works; Students split up into groups (Jan 26-Feb 1)
-  * Week 8: In-class development of a Rails app using TDD; Groups work on nightly milestones for the application; Work is reviewed in-class and groups will be expected to explain how they accomplished their tasks (Feb 2-8)
-  * Week 9: Work on basic Rails application continues; Disciplined planning on final capstone projectsPlanning and choosing a final capstone project (Feb 9-15)
+  * Week 9: MVC; REST; Overview of Rails; In-class Rails project; Assign group projects; Begin career prep (Feb 9-15)
+  * Week 10: Presenting group work; Choosing capstone 4 projects; Software requirements (Feb 16-22)
 
 ### 4. Advanced Topics and Career Prep.
 
@@ -122,7 +123,6 @@ After a lunch break, students work on individual assignments and research.
 
 Lectures in this final portion of the class will be delivered primarily by mentors and community members on their individual areas of expertise.  Other lectures will be pulled from material in the topic list that won't have been covered in previous units.
 
-  * Week 10: TBD; Work on capstone project; Career prep; Advanced Topics (Feb 16-22)
   * Week 11: TBD; Work on capstone project; Career prep; Advanced Topics (Feb 23-Mar 1)
   * Week 12: TBD; Work on capstone project; Career prep; Advanced Topics (Mar 2-8)
 
