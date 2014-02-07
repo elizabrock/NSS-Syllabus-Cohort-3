@@ -2,6 +2,8 @@
 
 Thursday, we worked through refactoring the rest of the application into ActiveRecord.
 
+Our starting point was: https://github.com/elizabrock/nss-capstone-2-example/tree/aaccc82aaed714bf8396b2d3f4214433dc972731
+
 Order of operations:
 
 1. Refactor all database access out of the tests.
