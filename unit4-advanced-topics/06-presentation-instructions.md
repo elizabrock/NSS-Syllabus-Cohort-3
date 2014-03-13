@@ -43,30 +43,32 @@ Last minute q+a about presentations; making sure we have the projector setup; et
 2. Amanda 11:15-11:20
 3. Jerry  11:25-11:30
 4. Rachel 11:35-11:40
-5. Ben Blackburn 11:45-11:50
 
-## 12:00 - 12:30
+## 11:45-12:15
 
 Lunch
 
-## 12:35 - 1:10
+## 12:20 - 1:10
 
-1. Benjamen Brescka 12:35-12:40
-2. Katie 12:45-12:50
-3. Warren 12:55-1:00
-4. Jay 1:05-1:10
+1. Ben Blackburn 12:20-12:25
+2. Jerry 12:30-12:35
+3. Benjamen Brescka 12:40-12:45
+4. Katie 12:50-12:55
+5. Warren 1:00-1:05
 
 ## 1:20 - 2:00
 
-1. Drew 1:20 - 1:25
-2. Mike 1:30 - 1:35
-3. Arielle 1:40 - 1:45
-4. Leah 1:50 - 1:55
+1. Jay 1:20-1:25
+2. Drew 1:30-1:35
+3. Mike 1:40-1:45
+4. Arielle 1:50-1:55
+
 
 # 2:10 - 2:45
 
-1. Scott 2:10 - 2:15
-2. Ashley 2:20 - 2:25
-3. Brian Arenz 2:30 - 2:35
+1. Leah 2:10-2:15
+2. Scott 2:20 - 2:25
+3. Ashley 2:30 - 2:35
+4. Brian Arenz 2:40 - 2:45
 
 Wrap up
